@@ -149,7 +149,7 @@ export default function App() {
           boxSizing: "border-box",
         }}
       >
-        INDIAN MOVIES
+        MOVIE HUB BY RITIK
       </div>
 
       <div style={{ paddingTop: "80px" }}>
